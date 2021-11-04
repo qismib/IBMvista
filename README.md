@@ -1,7 +1,7 @@
 # IBMvista
 Investigating Bose-Hubbard Model, variational insulator supefluid transition algorithm
 ## Files and folders description
-* **VQE_scripts:** python scripts for the VQE algorithm 
+* **VQE_scripts:** python scripts for the VQE algorithm. 
 * **data:** data of selected VQE runs.
 * **docs:** thesis text and slideshow.
 ## Summary
